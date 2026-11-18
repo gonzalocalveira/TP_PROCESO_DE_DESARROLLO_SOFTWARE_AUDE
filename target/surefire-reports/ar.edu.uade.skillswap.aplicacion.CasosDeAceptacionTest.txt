@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: ar.edu.uade.skillswap.aplicacion.CasosDeAceptacionTest
+-------------------------------------------------------------------------------
+Tests run: 18, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 34.67 s -- in ar.edu.uade.skillswap.aplicacion.CasosDeAceptacionTest

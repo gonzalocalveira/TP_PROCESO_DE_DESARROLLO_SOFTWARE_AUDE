@@ -1,0 +1,15 @@
+ar\edu\uade\skillswap\dominio\PrecioDecoratorTest.class
+ar\edu\uade\skillswap\infraestructura\AdapterTest$2.class
+ar\edu\uade\skillswap\aplicacion\CasosDeAceptacionTest.class
+ar\edu\uade\skillswap\dominio\ObserverTest$1.class
+ar\edu\uade\skillswap\dominio\ObserverTest.class
+ar\edu\uade\skillswap\aplicacion\ConcurrenciaTest.class
+ar\edu\uade\skillswap\soporte\Fixtures.class
+ar\edu\uade\skillswap\dominio\EstadoContratacionTest.class
+ar\edu\uade\skillswap\controllers\SkillSwapControllersTest.class
+ar\edu\uade\skillswap\dominio\StrategyTest.class
+ar\edu\uade\skillswap\mock\MockSkillSwapControllersTest.class
+ar\edu\uade\skillswap\soporte\ContextoPrueba.class
+ar\edu\uade\skillswap\dominio\EstadoPublicacionTest.class
+ar\edu\uade\skillswap\infraestructura\AdapterTest$1.class
+ar\edu\uade\skillswap\infraestructura\AdapterTest.class
